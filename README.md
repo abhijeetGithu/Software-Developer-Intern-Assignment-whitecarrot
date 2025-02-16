@@ -72,7 +72,7 @@ Create a `.env` file in the root directory and add the following secrets:
 
 ```
 VITE_GOOGLE_CLIENT_ID=your_google_client_id
-VITE_API_URL=your_api_url
+VITE_API_URL=http://localhost:3000
 GOOGLE_CLIENT_SECRET=your_google_client_secret
 ```
 
