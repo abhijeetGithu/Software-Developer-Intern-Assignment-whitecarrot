@@ -57,7 +57,7 @@ project-root/
 
 You can check out the deployed application at: [Google Calendar Events App](https://assignment-whitecarrot.netlify.app/)
 
-> **Note:** The link may not work as my Google Cloud credits have ended. You need to replace the secrets with your own for it to function properly.
+> **Note:** The link may not work as my Google Cloud credits have ended. You need to replace the secrets with your own for it to function properly in your environment.
 
 ## 🔧 Installation and Setup
 
