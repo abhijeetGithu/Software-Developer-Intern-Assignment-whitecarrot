@@ -58,8 +58,8 @@ project-root/
 
 ### 1. Clone the Repository
 ```sh
-git clone <repository-link>
-cd project-root
+git clone https://github.com/abhijeetGithu/Software-Developer-Intern-Assignment-whitecarrot.git
+cd Software-Developer-Intern-Assignment-whitecarrot
 ```
 
 ### 2. Install Dependencies
